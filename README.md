@@ -1,4 +1,4 @@
-# Hi, I'm Giovanni Nembhard 👋
+w# Hi, I'm Giovanni Nembhard 👋
 **Computer Science Student | FAU | Aspiring Software Developer & IT Intern** 
 
 ---
@@ -42,6 +42,6 @@
 
 ## 📫 Contact
 - Email: [giovanninembhard2@outlook.com] 
-- Linkin: [linkedin.com/in/giovanni-nembhard]
--  GitHub: [github.com/gnembhard]
+- Linkin: [www.linkedin.com/in/giovanni-nembhard]
+-  GitHub: [www.github.com/gnembhard]
 
