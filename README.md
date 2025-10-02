@@ -42,6 +42,6 @@
 
 ## 📫 Contact
 - Email: [giovanninembhard2@outlook.com] 
-- Linkin: linkedin.com/in/giovanni-nembhard
--  GitHub: github.com/gnembhard
+- Linkin: [linkedin.com/in/giovanni-nembhard]
+-  GitHub: [github.com/gnembhard]
 
