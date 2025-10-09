@@ -1,4 +1,4 @@
-w# Hi, I'm Giovanni Nembhard 👋
+Hello everyone, My name is Giovanni Nembhard 👋
 **Computer Science Student | FAU | Aspiring Software Developer & IT Intern** 
 
 ---
