@@ -4,7 +4,7 @@ Hello everyone, My name is Giovanni Nembhard 👋
 ---
 
 ## 💻 Skills
-**Languages:** C, C++, Python, JavaScript, HTML, CSS  
+**Languages:** C, C++, Python, JavaScript, HTML, CSS, Swift
 **Frameworks/Libraries:** React, Node.js  
 **Tools:** GitHub, Microsoft Office, Arduino, Adobe Illustrator  
 **Areas:** Web Development, Full Stack, AI, Cybersecurity, IT Support  
