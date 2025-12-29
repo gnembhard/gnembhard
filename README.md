@@ -1,5 +1,5 @@
 Hello everyone, My name is Giovanni Nembhard 
-**Computer Science Student | FAU 
+**Computer Science Student | FAU **
 ---
 
 ## Skills
