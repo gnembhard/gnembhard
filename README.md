@@ -33,7 +33,7 @@ Hello everyone, My name is Giovanni Nembhard
 
 ---
 
-## 📫 Contact
+##  Contact
 - Email: [giovanninembhard2@outlook.com] 
 - Linkin: [www.linkedin.com/in/giovanni-nembhard]
 -  GitHub: [www.github.com/gnembhard]
