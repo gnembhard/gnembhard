@@ -1,9 +1,9 @@
-Hello everyone, My name is Giovanni Nembhard 👋
+Hello everyone, My name is Giovanni Nembhard 
 **Computer Science Student | FAU | Aspiring Software Developer & IT Intern** 
 
 ---
 
-## 💻 Skills
+## Skills
 **Languages:** C, C++, Python, JavaScript, HTML, CSS, Swift
 
 **Frameworks/Libraries:** React, Node.js  
@@ -12,7 +12,7 @@ Hello everyone, My name is Giovanni Nembhard 👋
 
 ---
 
-## 🚀 Selected Projects
+##  Selected Projects
 ### Car Forum App (JavaScript, React)
 - Full CRUD forum for car enthusiasts  
 - Features: commenting, upvoting, image integration, and dynamic usernames   
@@ -26,7 +26,7 @@ Hello everyone, My name is Giovanni Nembhard 👋
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 - CodePath Cybersecurity  
 - CodePath Full Stack Web Development  
 - CodePath Technical Interview Prep 101 & 102  
