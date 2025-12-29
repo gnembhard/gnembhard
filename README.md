@@ -1,6 +1,5 @@
 Hello everyone, My name is Giovanni Nembhard 
-**Computer Science Student | FAU | Aspiring Software Developer & IT Intern** 
-
+**Computer Science Student | FAU 
 ---
 
 ## Skills
