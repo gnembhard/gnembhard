@@ -5,7 +5,6 @@ Computer Science Student | FAU
 
 ## Skills
 **Languages:** C, C++, Python, JavaScript, HTML, CSS, Swift
-
 **Frameworks/Libraries:** React, Node.js  
 **Tools:** GitHub, Microsoft Office, Arduino, Adobe Illustrator  
 **Areas:** Web Development, Full Stack, AI, Cybersecurity, IT Support  
