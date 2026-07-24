@@ -1,6 +1,7 @@
 # Giovanni Nembhard
 
-**Computer Science Graduate | Florida Atlantic University**
+**B.S. in Computer Science | Florida Atlantic University**  
+**Minor: Artificial Intelligence & Cybersecurity**
 
 ## About Me
 
