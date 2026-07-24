@@ -1,39 +1,36 @@
-Hello everyone, My name is Giovanni Nembhard 
----
-Computer Science Graduate | FAU 
----
+# Giovanni Nembhard
 
-## Skills
-**Languages:** C, C++, Python, JavaScript, HTML, CSS, Swift
-**Frameworks/Libraries:** React, Node.js  
-**Tools:** GitHub, Microsoft Office, Arduino, Adobe Illustrator  
-**Areas:** Web Development, Full Stack, AI, Cybersecurity, IT Support  
+**Computer Science Graduate | Florida Atlantic University**
 
----
+## About Me
 
-##  Selected Projects
-### Car Forum App (JavaScript, React)
-- Full CRUD forum for car enthusiasts  
-- Features: commenting, upvoting, image integration, and dynamic usernames   
+Computer Science graduate with experience in software development, web technologies, artificial intelligence, cybersecurity, and IT support. Passionate about building practical applications, solving technical problems, and developing efficient software solutions.
 
-### Tic Tac Toe with AI (Python)
-- Command-line game with unbeatable AI using minimax and alpha-beta pruning  
+## Technical Skills
 
-### CPU Scheduler (C++)
-- Implemented FCFS, SJF, and MLFQ scheduling algorithms  
-- Analyzed performance metrics like waiting and turnaround times  
+**Programming Languages**  
+C, C++, Python, JavaScript, HTML, CSS, Swift
 
----
+**Frameworks & Libraries**  
+React, Node.js, React Native, TensorFlow, PyTorch
 
-##  Certifications
-- CodePath Cybersecurity  
-- CodePath Full Stack Web Development  
-- CodePath Technical Interview Prep 101 & 102  
+**Tools & Platforms**  
+GitHub, Arduino, Microsoft Office, Adobe Illustrator, Firebase, Supabase
 
----
+**Technical Areas**  
+- Full-Stack Web Development
+- Mobile Application Development
+- Artificial Intelligence & Machine Learning
+- Cybersecurity
+- IT Support
+- Software Engineering
+
+## Professional Interests
+
+Interested in developing innovative software solutions that combine modern web technologies, artificial intelligence, and user-focused design. Enjoy working on projects involving automation, data-driven applications, and real-world problem solving. 
+
 
 ##  Contact
 - Email: [giovanninembhard2@outlook.com] 
 - Linkin: [www.linkedin.com/in/giovanni-nembhard]
--  GitHub: [www.github.com/gnembhard]
 
