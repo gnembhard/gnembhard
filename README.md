@@ -33,5 +33,5 @@ Interested in developing innovative software solutions that combine modern web t
 
 ##  Contact
 - Email: [giovanninembhard2@outlook.com] 
-- Linkin: [www.linkedin.com/in/giovanni-nembhard]
+- Linkedin: [www.linkedin.com/in/giovanni-nembhard]
 
